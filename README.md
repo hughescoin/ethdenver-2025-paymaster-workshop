@@ -18,7 +18,6 @@ You can obtain a free Paymaster URL from the Coinbase Developer Platform.
 Set `NEXT_PUBLIC_CONTRACT_ADDRESS` to your chosen NFT contract address.
 
 > [!TIP]
-
 > **Note**: Ensure your NFT contract has a `mintTo` function in its ABI. If it uses a different function name, update it accordingly in `paymaster.js`.
 
 Once completed, you may run the `paymaster.js` file:
