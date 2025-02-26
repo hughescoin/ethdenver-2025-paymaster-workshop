@@ -6,7 +6,7 @@ import {
   toCoinbaseSmartAccount,
   createBundlerClient,
 } from 'viem/account-abstraction';
-import { abi } from './utils.js';
+import { abi } from './abi.js';
 
 const nftAddress = '0x83bd615eb93eE1336acA53e185b03B54fF4A17e8';
 
