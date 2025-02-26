@@ -1,13 +1,13 @@
 {
-  "name": "simple-workshop",
+  "name": "paymaster-mint-workshop",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "author": "",
-  "license": "ISC",
+  "author": "hughescoin",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
